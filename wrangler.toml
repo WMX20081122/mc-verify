@@ -1,3 +1,5 @@
 name = "mc-verify"
 main = "worker.js"
 compatibility_date = "2024-01-01"
+
+# 部署前请确保已设置 CLOUDFLARE_API_TOKEN secret
