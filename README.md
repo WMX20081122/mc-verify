@@ -12,4 +12,4 @@
 ## 部署
 Cloudflare Workers → Create Worker → 粘贴代码 → Deploy
 
-更新时间: 2026-03-15
+更新时间: 2026-03-15 18:12
