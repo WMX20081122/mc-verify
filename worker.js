@@ -211,7 +211,7 @@ const RULE_QUESTIONS = [
 const DEFAULT_CONFIG = {
   titles: ["Minecraft 服务器审核", "欢迎来到服务器", "证明你的实力"],
   password: "审核通过",
-  quiz: { basicCount: 10, ruleCount: 10, passRate: 70, timeLimit: 600 },
+  quiz: { basicCount: 20, ruleCount: 10, passRate: 70, timeLimit: 900 },
   style: {
     background: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1920",
     primaryColor: "#00ff88"
